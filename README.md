@@ -53,4 +53,4 @@ Feel free to explore my repositories and get in touch if you have any questions 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=json510&show_icons=true&theme=radical)
