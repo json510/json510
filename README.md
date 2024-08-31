@@ -1,52 +1,14 @@
-# 👨‍💻 AI Full-Stack Developer | React, Angular, Vue, Next.js | 7+ Years Experience 🚀
+👋 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲! 𝗜'𝗺 𝗮 𝘀𝗲𝗮𝘀𝗼𝗻𝗲𝗱 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝘄𝗶𝘁𝗵 𝗼𝘃𝗲𝗿 𝟳 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗶𝗻 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗿𝗼𝗯𝘂𝘀𝘁 𝗮𝗻𝗱 𝘀𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀. 𝗠𝘆 𝗷𝗼𝘂𝗿𝗻𝗲𝘆 𝗶𝗻 𝘁𝗵𝗲 𝘁𝗲𝗰𝗵 𝘄𝗼𝗿𝗹𝗱 𝗵𝗮𝘀 𝗯𝗲𝗲𝗻 𝗮𝗻 𝗲𝘅𝗰𝗶𝘁𝗶𝗻𝗴 𝗮𝗱𝘃𝗲𝗻𝘁𝘂𝗿𝗲, 𝗳𝗶𝗹𝗹𝗲𝗱 𝘄𝗶𝘁𝗵 𝗱𝗶𝘃𝗲𝗿𝘀𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗮𝗻𝗱 𝗰𝘂𝘁𝘁𝗶𝗻𝗴-𝗲𝗱𝗴𝗲 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀.
 
-Welcome to my GitHub profile! I'm a seasoned Full-Stack Developer with over 7 years of experience in building robust and scalable software applications. My expertise spans across various modern technologies and frameworks, ensuring pixel-perfect and high-performance solutions.
+𝐓𝐡𝐞 𝐉𝐨𝐮𝐫𝐧𝐞𝐲 𝐒𝐨 𝐅𝐚𝐫
+My career began with a strong foundation in web development, mastering frontend frameworks like React. I quickly became adept at creating pixel-perfect, high-performance web applications. But my curiosity didn't stop there.
 
-## Frontend Mastery
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+𝐂𝐡𝐫𝐨𝐦𝐞 𝐄𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧𝐬 & 𝐒𝐚𝐚𝐒 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬
+One of the most thrilling chapters of my career has been developing several AI Assistant Chrome extensions. These projects allowed me to blend my frontend expertise with backend proficiency, creating seamless and intelligent user experiences. Leveraging React for dynamic interfaces and Node.js for robust backend services, I crafted extensions that significantly enhanced productivity and user engagement.
 
-## Backend Proficiency
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![ASP.Net](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+I've also successfully migrated multiple Chrome extensions from Manifest V2 to V3, ensuring compliance with the latest standards and improving performance and security.
 
-## Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+In addition to Chrome extensions, I've specialized in developing SaaS applications. My focus has been on creating responsive and user-friendly UI/UX designs that ensure a seamless user experience across all devices. Integrating payment systems like Stripe and PayPal has been a key part of my work, enabling secure and efficient transactions for users.
 
-## DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-## Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white)
-
-## Testing & APIs
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Enzyme](https://img.shields.io/badge/Enzyme-00BFFF?style=for-the-badge&logo=airbnb&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
-I am passionate about leveraging my skills to deliver top-notch solutions that drive business success. Let's collaborate to bring your ideas to life! 🌟
-
-Feel free to explore my repositories and get in touch if you have any questions or project ideas.
+𝐋𝐞𝐭'𝐬 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞!
+I am passionate about leveraging my skills to deliver top-notch solutions that drive business success. Whether it's a cutting-edge Chrome extension with the latest Manifest V3 standards or a robust SaaS application with a focus on UI/UX and payment integration, I'm here to bring your ideas to life. Let's collaborate and create something amazing together! 🌟
